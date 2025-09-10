@@ -1,2 +1,3 @@
 main branch first message
 main branch second message
+new-branch first message
