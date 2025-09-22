@@ -3,3 +3,4 @@ new-branch second message
 main branch second message
 new-branch first message
 Intermediate branch first message
+Intermediate branch second message
